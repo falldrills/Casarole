@@ -7,3 +7,5 @@ The most pristine LSI you've ever seen. Now brought to you.
 - This LSI is undectable.
 - We do not log your IP address.
 - We do not sell your information.
+- Works with MacOS and Windows.
+- Works with iOS (still working on iOS)
